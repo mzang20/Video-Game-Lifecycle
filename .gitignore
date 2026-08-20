@@ -1,0 +1,19 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Raw/large datasets
+data/raw/
+data/processed/
+
+# CSV / Excel datasets if stored elsewhere
+*.csv
+*.xlsx
